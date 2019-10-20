@@ -4,5 +4,5 @@
 swapped network card (DW1560) with extra kexts :
 * AirportBrcmFixup
 * BrcmBluetoothInjector
-BrcmFirmwareData
-BrcmPatchRAM3
+* BrcmFirmwareData
+* BrcmPatchRAM3
