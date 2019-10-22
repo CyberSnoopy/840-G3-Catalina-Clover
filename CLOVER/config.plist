@@ -338,15 +338,15 @@
 	<key>SMBIOS</key>
 	<dict>
 		<key>BoardSerialNumber</key>
-		<string>C02636600QXHMHK8C</string>
+		<string></string>
 		<key>Mobile</key>
 		<true/>
 		<key>ProductName</key>
 		<string>MacBookPro13,1</string>
 		<key>SerialNumber</key>
-		<string>C02SC0YJGVC1</string>
+		<string></string>
 		<key>SmUUID</key>
-		<string>3277DBA5-F630-4E47-9124-32E622CE605F</string>
+		<string></string>
 		<key>Trust</key>
 		<false/>
 	</dict>
